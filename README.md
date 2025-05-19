@@ -5,4 +5,4 @@ Wedneday 8:30    Red    -108.40  x
 Wedneday 10:30   Green    -187.01 x     
 Wedneday 10:30   Red    -187.10  x   
 Wedneday 16:30   Green    -187.11  
-Wedneday 16:30   Red    -187.20  
+Wedneday 16:30   Red    -187.20  x
